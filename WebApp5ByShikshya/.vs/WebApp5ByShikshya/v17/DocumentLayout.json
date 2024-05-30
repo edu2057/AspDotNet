@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\webapp5byshikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\webapp5byshikshya.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\WebApp3ByShikshya\\WebApp3ByShikshya\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\models\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\models\\todolistcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp5byshikshya\\webapp5byshikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261AD95B-223B-4D95-9BAE-D87C5763E77C}|WebApp5ByShikshya\\WebApp5ByShikshya.csproj|solutionrelative:webapp5byshikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\CODES\\Dot-Net\\WebApp5ByGiver\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Employee\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp5ByShikshya\\Views\\Employee\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\DbFirstContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp5ByShikshya\\Models\\DbFirstContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp5ByShikshya\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp5ByShikshya\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp3ByShikshya\\WebApp3ByShikshya\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApp3ByShikshya\\WebApp3ByShikshya\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp3ByShikshya\\WebApp3ByShikshya\\Program.cs",
+              "RelativeToolTip": "..\\WebApp3ByShikshya\\WebApp3ByShikshya\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:12:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:18:02.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\appsettings.json",
+              "RelativeToolTip": "WebApp5ByShikshya\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T06:20:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAHkAAAAAANAFMZIkwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:16:45.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\Todo.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:17:09.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoListContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\TodoListContext.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Models\\TodoListContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\TodoListContext.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Models\\TodoListContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:17:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApp5ByShikshya.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\WebApp5ByShikshya.csproj",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\WebApp5ByShikshya.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\WebApp5ByShikshya.csproj",
+              "RelativeToolTip": "WebApp5ByShikshya\\WebApp5ByShikshya.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T06:16:03.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Program.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:33:24.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:18:13.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:33:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:33:05.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:32:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:32:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:32:43.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:29:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAMCCAOEwwAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:18:44.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:33:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:33:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Todo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Details.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Todo\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:18:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T06:18:34.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:32:10.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApp5ByShikshya\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:32:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbFirstContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\DbFirstContext.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Models\\DbFirstContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\DbFirstContext.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Models\\DbFirstContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:31:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\CODES\\Dot-Net\\WebApp5ByGiver\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\CODES\\Dot-Net\\WebApp5ByGiver\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\CODES\\Dot-Net\\WebApp5ByGiver\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\CODES\\Dot-Net\\WebApp5ByGiver\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:41:44.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAABQJcLvvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:31:56.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApp5ByShikshya\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp5ByShikshya\\WebApp5ByShikshya\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApp5ByShikshya\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:28:45.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

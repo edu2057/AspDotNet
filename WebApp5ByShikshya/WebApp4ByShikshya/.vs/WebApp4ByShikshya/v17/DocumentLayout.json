@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\controllers\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\controllers\\repository\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\controllers\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\migrations\\productdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\migrations\\20240527152158_mig02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\migrations\\20240527152158_mig02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\migrations\\20240527152010_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\migrations\\20240527152010_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|c:\\users\\hp\\source\\repos\\webapp4byshikshya\\webapp4byshikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDBEAC-9057-4D41-AE92-241164E8E5F6}|WebApp4ByShikshya\\WebApp4ByShikshya.csproj|solutionrelative:webapp4byshikshya\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Migrations\\ProductDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:29:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240527152158_mig02.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\20240527152158_mig02.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Migrations\\20240527152158_mig02.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\20240527152158_mig02.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Migrations\\20240527152158_mig02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:21:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\Repository\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Controllers\\Repository\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\Repository\\ProductRepo.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Controllers\\Repository\\ProductRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAZGY/wDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:49:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Controllers\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\Repository\\IRepository.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Controllers\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:49:32.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Program.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:49:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHYAAAAAAIDCS40nwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:46:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\appsettings.json",
+              "RelativeToolTip": "WebApp4ByShikshya\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T15:06:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240527152010_migration1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\20240527152010_migration1.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Migrations\\20240527152010_migration1.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Migrations\\20240527152010_migration1.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Migrations\\20240527152010_migration1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:20:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Models\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:47:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\Product.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:46:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:49:10.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:48:53.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:48:40.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:46:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:48:38.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:48:24.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:48:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp4ByShikshya\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T14:47:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp4ByShikshya\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WebApp4ByShikshya\\WebApp4ByShikshya\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApp4ByShikshya\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:46:46.877Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
